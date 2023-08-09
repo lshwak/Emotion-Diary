@@ -3,6 +3,7 @@ import { Navigate, useNavigate } from "react-router-dom";
 import MyButton from "./MyButton";
 
 const DiaryItem = ({id, emotion, content, date}) => {
+    
     // const env = process.env;
     // env.PUBLIC_URL = env.PUBLIC_URL || "";
 
